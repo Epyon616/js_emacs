@@ -1,0 +1,187 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/lee/code/core/" . "director/")
+ ("/Users/lee/code/core/director/api/" . "models/")
+ ("/Users/lee/code/core/director/src/containers/Pages/" . "Playlists/")
+ ("/Users/lee/code/core/director/src/containers/" . "Pages/")
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/" . "assets/")
+ ("/Users/lee/code/core/director/src/components/" . "Tag/")
+ ("/Users/lee/code/core/director/src/" . "containers/")
+ ("/Users/lee/code/core/director/" . "src/")
+ ("/Users/lee/code/collectplus/app/assets/javascripts/angular/" . "controllers/")
+ ("/Users/lee/.emacs.d/" . "init.d/")
+ ("/Users/lee/macsconfig/" . "init.d/")
+ ("/Users/lee/" . ".emacs.d/")
+ ("/Users/" . "lee/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/lee/.emacs.d/"
+ "/Users/lee/code/core/director/src/containers/Pages/Playlists/"
+ "/Users/lee/code/core/director/src/utils/"
+ "/Users/lee/code/core/director/src/containers/Pages/Content/"
+ "/Users/lee/code/core/director/test/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/content_items/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/assets/"
+ "/Users/lee/.emacs.d/init.d/"
+ "/Users/lee/code/core/director/api/models/"
+ "/Users/lee/code/core/director/api/migrations/"
+ "/Users/lee/code/core/director/api/config/"
+ "/Users/lee/code/core/director/api/utils/"
+ "/Users/lee/code/core/director/api/routes/"
+ "/Users/lee/code/core/director/src/components/ContentItems/"
+ "/Users/lee/code/core/director/src/components/AssetSelector/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/zones/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sites/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/signs/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/schedules/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sequences/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/playlists/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/folders/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/devices/"
+ "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/campaigns/"
+ "/Users/lee/code/core/director/src/components/Folders/"
+ "/Users/lee/code/collectplus/app/assets/javascripts/angular/controllers/"
+ "/Users/lee/macsconfig/init.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README.md"
+ "Playlist.js"
+ "debounce.js"
+ "Contents.js"
+ "ContentsTest.js"
+ "mocha.opts"
+ "schema.xml"
+ "db-data-config.xml"
+ "init.el"
+ "07_linting.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/lee/.emacs.d/" (23012 24874 327630 8000) ".git/" "elpa/" "network-security.data" ".gitignore" "README.md" "init.el" "auto-save-list/" "init.d/" "ido.last" "ac-comphist.dat" "../" "./")
+
+ ("/Users/lee/code/core/director/src/containers/Pages/Playlists/" (23008 53218 835003 240000) "Playlist.js" "PlaylistTest.js" "Playlist.scss" "PlaylistsTest.js" "Playlists.js" "../" "./")
+
+ ("/Users/lee/code/core/director/src/utils/" (23008 53218 838201 489000) "getSignPreview.js" "updateQueryStringTest.js" "file.js" "formatUnitsTest.js" "updateQueryString.js" "validation.js" "tagList.js" "formatUnits.js" "debounce.js" "validationHelper.js" "linkHelpers.js" "linkHelpersTest.js" "getAssetPreview.js" "launchCreator.js" "reduxFormProps.js" "fileTest.js" "../" "./")
+
+ ("/Users/lee/code/core/director/src/containers/Pages/Content/" (23008 53290 906340 281000) "Contents.js" "ContentsTest.js" "../" "./")
+
+ ("/Users/lee/code/core/director/test/" (23008 54078 590097 838000) "helpers/" "helpers.js" "factories/" "mocha.opts" "testSetup.js" "../" "./")
+
+ ("/Users/lee/code/core/director/src/containers/Pages/" (23008 53218 820047 538000) "EndlessAisles/" "Devices/" "Login/" "Assets/" "DataObjects/" "Campaigns/" "Users/" "Sequences/" "Signs/" "UrlRulesets/" "Schedules/" "Roles/" "Content/" "NotFound/" "Playlists/" "Role/" "Home/" "../" "./")
+
+ ("/Users/lee/code/core/director/src/" (23008 53218 837964 317000) "reducers/" "helpers/" "redux/" "containers/" "actions/" "routes.js" "theme/" "components/" "config.js" "utils/" "server.js" "client.js" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/content_items/" (23008 50101 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/assets/" (23008 48061 0 0) "db-data-config.xml" "schema.xml" "solrconfig.xml" "../" "./")
+
+ ("/Users/lee/.emacs.d/init.d/" (23008 49687 640899 716000) "07_linting.el" "04_theme.el" "02_packages.el" "01_initialize.el" "05_modes.el" "03_keys.el" "../" "./")
+
+ ("/Users/lee/" (23008 49012 481319 892000) ".viminfo" ".bash_history" ".gitconfig" "Downloads/" ".oh-my-zsh/" ".babel.json" "Documents/" ".npm/" ".Trash/" "Dropbox/" ".zsh-update" "Applications/" "Movies/" ".ssh/" ".zcompdump-leemac-5.3" ".dropbox/" "Public/" ".bash_sessions/" ".emacs.d/" ".oracle_jre_usage/" "Library/" "Desktop/" ".zsh_history" "code/" ".atom/" "Pictures/" "Creative Cloud Files/" ".zshrc" ".CFUserTextEncoding" ".DS_Store" ".node-gyp/" ".gitkraken/" "Music/" ".config/" "../" "./")
+
+ ("/Users/lee/code/core/director/api/migrations/" (23008 38753 864221 447000) "20170101000005-alter-playlist.js" "20170410111611-correct_created_and_modified_field_naming.js" "20170908110655-add_folder_table.js" "20170426093348-create_schedule_entries.js" "20170811130421-endpoint_config_analytics.js" "20170101000003-create-asset-tag.js" "20170329102203-add-schedules.js" "20170811132535-add_desired_firmware_version.js" "20170908111754-modify_parent_fields.js" "20170101000000-add-loadauth-request.js" "20170602111254-add_schedule_tag_table.js" "20170908121456-add_folder_tag_table.js" "20170811133617-increase_version_length.js" "20170811121638-create_analytics.js" "20170101000000-create-tag.js" "201709141205-add_endpoints_updated_table.js" "20170911092300-devices-multiple-commands.js" "20170810110050-permission-update.js" "20171013093709-alter-schedule-entry-table.js" "20170101000004-create-encode-queue.js" "20170101000002-create-asset.js" "20170906121557-add_parent_field.js" "20170510101611-playlist_tag.js" "20170810150458-password_upgrade.js" "20170920145120-set_default_parent_value.js" "20170101000008-alter-sign.js" "20170811131419-alter_device_analytics.js" "20170101000007-alter-sequence-created.js" "20170811133902-encode_types_threads.js" "20170728085852-add_created_and_modified_fields_to_endpoint_config.js" "20170810145704-add_client_createdDate.js" "20170728115420-add_created_and_modified_fields_to_store.js" "20170101000001-create-abstract-file.js" "20170101000010-alter-user.js" "20170330094101-sequence_tag.js" "20170101000009-create-sign-tag.js" "20170602112210-add_created_and_modified_fields_to_campaign.js" "20170602111526-add_campaign_tag_table.js" "20170811133004-add_prevent_usb.js" "20170811134010-create_analytics_report_file.sql.js" "20170510130911-playlist-created.js" "20170811131226-create_analytics_report.js" "20170101000006-create-playlist-tag.js" "../" "./")
+
+ ("/Users/lee/code/core/director/api/models/" (23008 37826 312136 371000) "Sites.js" "Assets.js" "Devices.js" "Image.js" "Schedules.js" "EncodeQueueProcess.js" "Folders.js" "DataObjectTier.js" "Signs.js" "SearchFields.js" "index.js" "Users.js" "Sequences.js" "Tags.js" "Campaigns.js" "Playlists.js" "ContentItems.js" "EncodeQueue.js" "../" "./")
+
+ ("/Users/lee/code/core/director/api/" (23008 38733 918703 705000) "routes/" "api.js" "seeders/" "__tests__/" "config.js" "models/" "utils/" "config/" ".DS_Store" "tasks/" "migrations/" "../" "./")
+
+ ("/Users/lee/code/core/director/" (23008 38733 920407 435000) "bitbucket-pipelines.yml" "src/" ".nyc_output/" "coverage/" ".git/" ".nycrc" ".eslintignore" "api/" "Files/" "CONTRIBUTING.md" "static/" "webpack-assets.json" "runWithEnvVars.sh" "package.json" "package-lock.json" ".gitignore" "common/" ".bootstraprc" "webpack/" "README.md" ".editorconfig" "docs/" "node_modules/" ".eslintrc" "sequelizeOptions.json" "Input/" "bin/" "test/" "LICENSE" ".DS_Store" "server.babel.js" ".babelrc" "runLocalhost.sh" "../" "./")
+
+ ("/Users/lee/code/core/director/api/utils/" (23008 35046 607513 632000) "fileProxy.js" "callLegacyText.js" "endpointUpdater.js" "fileEnc/" "auth/" "apiError.js" "logger.js" "legacyProxyUpload.js" "Solr.js" "legacyProxy.js" "fileUtils.js" "database.js" "../" "./")
+
+ ("/Users/lee/code/core/director/api/config/" (23008 35046 607171 473000) "config.json" "../" "./")
+
+ ("/Users/lee/code/core/director/src/containers/Pages/Signs/" (22996 63146 345385 994000) "SignsTest.js" "SignTest.js" "Sign.js" "Signs.js" "SignFormTest.js" "Sign.scss" "SignForm.js" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/campaigns/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/folders/" (23008 27124 0 0) "schema.xml" "solrconfig.xml" "db-data-config.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/playlists/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sequences/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/schedules/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/signs/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/Users/lee/code/core/director/src/components/AssetSelector/" (23007 30439 300718 432000) "AssetSelector.js" "AssetSelectorTest.js" "AssetSelector.scss" "../" "./")
+
+ ("/Users/lee/code/core/director/src/components/ContentItems/" (23007 30439 303055 371000) "ContentItemsTableTest.js" "ContentItemsTable.scss" "ContentItemsTable.js" "../" "./")
+
+ ("/Users/lee/code/core/director/api/routes/" (23007 27206 957930 347000) "sites.js" "assets.js" "urlRulesets.js" "devices.js" "schedules.js" "endless.js" "folders.js" "dataObjects.js" "signs.js" "users.js" "roles.js" "sequences.js" "auth.js" "campaigns.js" "playlists.js" "contentItems.js" "../" "./")
+
+ ("/Users/lee/code/core/director/src/components/Tag/" (22998 7611 425953 718000) "TagTest.js" "Tag.js" "Tag.scss" "../" "./")
+
+ ("/Users/lee/code/core/director/src/components/Folders/" (23007 27206 930908 221000) "FolderSelect.scss" "FolderSelect.js" "FolderSelectTest.js" "../" "./")
+
+ ("/Users/lee/code/core/director/src/components/" (23007 27221 897549 475000) "EndlessAisles/" "Devices/" "Notifications/" "Tag/" "SSText/" "Sign/" "TagCloud/" "Assets/" "ToolTipIcon/" "DataObjects/" "Campaigns/" "UserProfile/" "Folders/" "SSLink/" "Avatar/" "Users/" "UserBar/" "FullScreenDropZone/" "Sequences/" "AssetSelector/" "SelectorDialog/" "Prompt/" "UrlRulesets/" "QuickAction/" "Schedules/" "Spinner/" "Slider/" "QuickActionsMenu/" "Pill/" "Navigation/" "Confirm/" "GraphLoader/" "UploadPrompt/" "SSTable/" "RoleForm/" "ContentItems/" "Playlists/" "FormFilter/" "../" "./")
+
+ ("/Users/lee/code/core/director/src/containers/" (22986 16068 335496 422000) "Header/" "PaginationInfo/" "Pages/" "ActionsMenu/" "Filter/" "SubHeader/" "DevTools/" "Dialog/" "Navigation/" "App/" "FiltersApplied/" "Pagination/" "Filters/" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/zones/" (22911 19880 0 0) "solrconfig.xml" "schema.xml" "db-data-config.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sites/" (22944 4967 0 0) "solrconfig.xml" "schema.xml" "db-data-config.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/devices/" (22996 62298 0 0) "db-data-config.xml" "schema.xml" "solrconfig.xml" "../" "./")
+
+ ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/" (22966 35349 0 0) "folders/" "README.md" "npm-debug.log" "sites/" "zones/" "setupAndImport.sh" "playlists/" "devices/" "content_items/" "campaigns/" "schedules/" "signs/" "sequences/" "setConfig.sh" "assets/" ".git/" "../" "./")
+
+ ("/Users/lee/code/" (22986 16038 874038 901000) "core/" "../" "./")
+
+ ("/Users/lee/code/core/" (22986 16060 202573 968000) "director/" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/assets/stylesheets/partials/v2/components/" (22339 2956 0 0) "forms/" "_why_use_collectplus.css.scss" "_trust_pilot_badge.css.scss" "_tabs.css.scss" "_store_network_pane.css.scss" "_star_rating.css.scss" "_pricing_matrix.css.scss" "_price_selection.css.scss" "_modal.css.scss" "_loyalty_banner.css.scss" "_limited_use_notice.css.scss" "_legacy_browser_warning.css.scss" "_images_carousel.css.scss" "_how_it_works_pane.css.scss" "_footer_call_to_actions.css.scss" "_cover_value_warning.css.scss" "_click_and_collect_infographic.css.scss" "_breadcrumbs.css.scss" "_body_store_locator.css.scss" "_base.css.scss" "_alerts_and_notices.css.scss" "_admin_tables.css.scss" ".sass-cache/" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/assets/javascripts/angular/templates/click_and_collect/" (22333 31698 0 0) "why_use_collectplus.html" "how_it_works.html" "featured_partners.html" "click_and_collect.html" "all_partners.html" ".#all_partners.html" "../" "./")
+
+ ("/Users/lee/code/collectplus/tests/unit/services/api/v2/" (22325 44195 0 0) "user.js" "tracking.js" "returns.js" "retailers.js" "orders.js" "click_and_collect.js" ".#click_and_collect.js" "../" "./")
+
+ ("/Users/lee/code/collectplus/tests/common/utils/api/v2/" (22325 30661 0 0) "user-mocks.js" "translate.js" "track.js" "token.js" "returns-mocks.js" "retailers-mocks.js" "orders-mocks.js" "click-and-collect-mocks.js" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/assets/javascripts/angular/controllers/" (22323 18191 0 0) "user.js" "tracking.js" "terms.js" "store_locator.js" "signup.js" "return.js" "order_confirmation.js" "order.js" "menu.js" "maps.js" "login.js" "home.js" "forgot.js" "feedback.js" "dashboard.js" "contact.js" "click_and_collect.js" "barcode.js" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/assets/javascripts/angular/" (22305 60381 0 0) "templates/" "services/" "locales/" "directives/" "controllers/" "app_standalone.js" "app.mobile.js" "app.js" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/assets/javascripts/angular/templates/" (22305 52203 0 0) "user.js" "user/" "tracking.js" "tracking/" "storelocator.js" "storelocator/" "retailer.js" "retailer/" "order.js" "order/" "modalbase.js" "modalbase/" "mobile.js" "mobile/" "dashboard.js" "dashboard/" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/assets/javascripts/angular/templates/storelocator/" (22305 60466 0 0) "storelocator_main.html" "panes.html" "location_search_form.html" "detailed_external.html" "detailed.html" "../" "./")
+
+ ("/Users/lee/code/blog/" (22304 33551 0 0) "xmlrpc.php" "wp-trackback.php" "wp-signup.php" "wp-settings.php" "wp-mail.php" "wp-login.php" "wp-load.php" "wp-links-opml.php" "wp-includes/" "wp-cron.php" "wp-content/" "wp-config.php" "wp-config-sample.php" "wp-comments-post.php" "wp-blog-header.php" "wp-admin/" "wp-activate.php" "readme.html" "npm-debug.log" "license.txt" "index.php" "config.ru" ".ruby-version" ".ruby-gemset" ".pow/" ".DS_Store" "../" "./")
+
+ ("/Users/lee/code/blog/wp-content/" (22303 27515 0 0) "uploads/" "upgrade/" "themes/" "plugins/" "languages/" "index.php" ".DS_Store" "../" "./")
+
+ ("/Users/lee/code/blog/wp-content/themes/" (22304 36285 0 0) "twentysixteen/" "twentyfourteen/" "twentyfifteen/" "stlthy_wptheme/" "index.php" "FoundationPress/" ".DS_Store" "../" "./")
+
+ ("/Users/lee/code/blog/wp-content/themes/FoundationPress/" (22304 35272 0 0) "woocommerce.php" "template-parts/" "style.css" "single.php" "sidebar.php" "searchform.php" "search.php" "screenshot.png" "README.md" "page.php" "page-templates/" "package.json" "node_modules/" "MIT-LICENSE.txt" "library/" "languages/" "index.php" "header.php" "gulpfile.js" "functions.php" "footer.php" "composer.lock" "composer.json" "comments.php" "codesniffer.ruleset.xml" "CHANGELOG.md" "bower.json" "assets/" "archive.php" "404.php" ".travis.yml" ".gitignore" ".github/" ".git/" ".bowerrc" ".babelrc" "../" "./")
+
+ ("/Users/lee/code/collectplus/" (22296 55195 0 0) "vendor/" "Vagrantfile" "tmp/" "tests/" "spec/" "script/" "README.md" "Rakefile" "public/" "private/" "precompile/" "package.json" "node_modules/" "MOBILE.md" "mobile/" "log/" "lib/" "gulpfile.js" "gulp/" "Gemfile.lock" "Gemfile" "features/" "doc/" "db/" "config.ru" "config/" "circle.yml" "chef/" "Capfile" "bower.json" "aws/" "app/" ".ruby-version" ".ruby-gemset" ".rubocop_todo.yml" ".rubocop.yml" ".rspec" ".powenv" ".phraseapp.yml.example" ".phraseapp.yml" ".phrase" ".overcommit.yml" ".jshintrc" ".gitmodules" ".gitignore" ".git/" ".DS_Store" ".codeclimate.yml" ".bowerrc" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/" (22251 48592 0 0) "views/" "uploaders/" "services/" "presenters/" "models/" "middleware/" "jobs/" "helpers/" "controllers/" "constraints/" "concerns/" "chewy/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/views/" (22288 44285 0 0) "voucher_mailer/" "users/" "user_sessions/" "user_mailer/" "user_activations/" "transactions/" "stores/" "store_locator/" "shared/" "search/" "saved_parcels/" "returns_stores/" "returns/" "return_mailer/" "retailers/" "reset_password/" "report_mailer/" "referrals/" "referral_mailer/" "purchased_parcels/" "postcodes/" "payments/" "parcels/" "parcel_trackers/" "parcel_feedbacks/" "pages/" "orders/" "order_mailer/" "notifier/" "news/" "map/" "local_landing_pages/" "layouts/" "labels/" "kissmetrics/" "home/" "google/" "errors/" "dashboard/" "cs/" "contact_requests/" "contact_request_mailer/" "claims/" "claim_mailer/" "cancellations/" "batches/" "api/" "angular_test/" "analytics/" "admin/" "addresses/" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/views/layouts/" (22288 46417 0 0) "v2/" "pages.html.haml" "navigation/" "map_overlay.html.haml" "labels.html.haml" "empty_overlay.html.haml" "application.html.haml" "angular/" "admin.html.haml" "_v1_stylesheets.html.haml" "_user_navigation.html.haml" "_top_nav.html.haml" "_skip_nav.html.haml" "_navigation.html.haml" "_legacy_browser_warning.html.haml" "_header.html.haml" "_head.html.haml" "_footer.html.haml" "_email_footer_p.html.haml" "_email_footer_lines.text.haml" "_email_footer_br.html.haml" "_email_footer.text.haml" "../" "./")
+
+ ("/Users/lee/code/collectplus/app/views/layouts/angular/" (22288 60635 0 0) "facebook-application.html.haml" "application.html.haml" "_footer_social_links.html.haml" "_footer.html.haml" "../" "./")
+
+ ("/Users/lee/macsconfig/init.d/" (22286 25351 0 0) "07_theme.el" "06_flymake.el" "05_autocomplete.el" "04_keybindings.el" "03_default_modes.el" "02_package_management.el" "01_initialization.el~" "01_initialization.el" "../" "./")
+
+ ("/Users/lee/.emacs.d/elpa/" (22287 22586 0 0) "yaml-mode-20160220.340/" "wrap-region-20140116.2320/" "with-editor-20160408.201/" "sass-mode-20150508.2012/" "rvm-20150402.742/" "ruby-tools-20151209.815/" "rubocop-20151123.2137/" "rspec-mode-20160304.1829/" "popup-20160409.2133/" "pkg-info-20150517.443/" "nyan-mode-20151017.2235/" "neotree-20160306.730/" "markdown-mode-20160409.650/" "magit-popup-20160408.156/" "magit-20160412.128/" "less-css-mode-20150511.319/" "json-snatcher-20150511.2047/" "json-reformat-20160212.53/" "json-mode-20151116.2000/" "javascript-2.2.1/" "helm-core-20160412.1017/" "helm-20160413.41/" "handlebars-mode-20150211.949/" "haml-mode-20150508.2011/" "git-commit-20160412.130/" "flymake-yaml-20130423.848/" "flymake-sass-20140308.325/" "flymake-ruby-20121104.1059/" "flymake-json-20130423.2357/" "flymake-jslint-20130613.202/" "flymake-jshint-20140319.1500/" "flymake-haml-20130324.351/" "flymake-easy-20140818.55/" "flymake-cursor-20130822.332/" "flymake-css-20121104.1104/" "flymake-coffee-20140809.324/" "feature-mode-20141121.1030/" "epl-20150517.433/" "elixir-mode-20160413.416/" "dash-20160306.1222/" "css-comb-20150502.1328/" "color-theme-railscasts-0.0.2/" "color-theme-20080305.34/" "coffee-mode-20160328.2356/" "auto-complete-20160329.2321/" "async-20160223.146/" "archives/" "../" "./")
+
+ ("/Users/lee/.emacs.d/elpa/color-theme-railscasts-0.0.2/" (22287 22586 0 0) "color-theme-railscasts.elc" "color-theme-railscasts.el" "color-theme-railscasts-pkg.elc" "color-theme-railscasts-pkg.el" "color-theme-railscasts-autoloads.el" "../" "./")
+
+ ("/Users/lee/macsconfig/" (22250 56262 0 0) "Readme.md" "init.el~" "init.el" "init.d/" "ido.last" "elpa/" "auto-save-list/" "ac-comphist.dat" ".git/" "../" "./")
+
+ ("/Users/" (22095 44737 0 0) "Shared/" "lee/" "Guest/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
