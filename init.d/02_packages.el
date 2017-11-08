@@ -8,10 +8,9 @@
             'css-comb
 	    'javascript
             'json-mode
-            'js2-mode
+            'js3-mode
 	    'haml-mode
             'handlebars-mode
-            'web-mode
             'exec-path-from-shell
 	    'magit
             'nyan-mode
@@ -30,6 +29,7 @@
             'color-theme
             'polymode
             'ack-and-a-half
+            'yasnippet
             )
       )
 

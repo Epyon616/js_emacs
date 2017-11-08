@@ -27,3 +27,17 @@
 
 
 (setq magit-last-seen-setup-instructions "1.4.0")
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   (quote
+    (tempo-snippets wrap-region sass-mode polymode nyan-mode markdown-mode magit json-mode js2-mode javascript helm handlebars-mode flymake-sass flymake-json flymake-jslint flymake-jshint flymake-cursor flymake-css flycheck exec-path-from-shell elixir-mode css-comb color-theme auto-complete ack-and-a-half))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
