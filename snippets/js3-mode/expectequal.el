@@ -1,6 +1,6 @@
 
 # -*- mode: snippet -*-
 # name: React#testExpectEqual
-# key: expectequal
+# key: exeq
 # --
 expect($1).to.equal($0);
