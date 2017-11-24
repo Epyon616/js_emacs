@@ -8,7 +8,7 @@ I could quite easilt have just bundled the two together but as I'm doing very li
 
 ## Snippet shortcuts
 ### Component Lifecycle
-`cdm` = componentDidMount()
+`cdm` = componentDidMount() . 
 `cwm` = componentWillMount()
 `cwum` = componentWillUnmount()
 `cdu` = componentDidUpdate()
