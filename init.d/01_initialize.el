@@ -32,5 +32,5 @@
 (setq-default show-trailing-whitespace 1)
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
 ;; CUSTOM FONT FACE
-(set-frame-font "Inconsolata 15")
+(set-frame-font "Inconsolata 17")
 ;;; 01_initialize.el ends here

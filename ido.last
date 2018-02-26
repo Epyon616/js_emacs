@@ -2,6 +2,29 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/Developer/Development/SignStix_TFS/" . "V3/")
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/" . "solrconfig/")
+ ("/home/Developer/Development/SignStix_TFS/V3/" . "configs/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/configs/" . "solrconfig/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/docs/" . "api/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/utils/" . "auth/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/redux/" . "middleware/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/static/assets/images/" . "logo/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/static/assets/" . "images/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/static/" . "assets/")
+ ("/home/Developer/.emacs.d/snippets/" . "js3-mode/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/test/" . "factories/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/" . "director/")
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/" . "assignments/")
+ ("/home/Developer/.emacs.d/" . "snippets/")
+ ("/home/Developer/" . ".emacs.d/")
+ ("/home/" . "Developer/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/" . "Locations/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/" . "routes/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/" . "Login/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/" . "Pages/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/" . "actions/")
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/" . "src/")
  ("/Users/lee/code/core/" . "director/")
  ("/Users/lee/code/core/director/api/" . "models/")
  ("/Users/lee/code/core/director/src/containers/Pages/" . "Playlists/")
@@ -19,168 +42,273 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/lee/.emacs.d/"
- "/Users/lee/code/core/director/src/containers/Pages/Playlists/"
- "/Users/lee/code/core/director/src/utils/"
- "/Users/lee/code/core/director/src/containers/Pages/Content/"
- "/Users/lee/code/core/director/test/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/content_items/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/assets/"
- "/Users/lee/.emacs.d/init.d/"
- "/Users/lee/code/core/director/api/models/"
- "/Users/lee/code/core/director/api/migrations/"
- "/Users/lee/code/core/director/api/config/"
- "/Users/lee/code/core/director/api/utils/"
- "/Users/lee/code/core/director/api/routes/"
- "/Users/lee/code/core/director/src/components/ContentItems/"
- "/Users/lee/code/core/director/src/components/AssetSelector/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/zones/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sites/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/signs/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/schedules/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sequences/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/playlists/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/folders/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/devices/"
- "/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/campaigns/"
- "/Users/lee/code/core/director/src/components/Folders/"
- "/Users/lee/code/collectplus/app/assets/javascripts/angular/controllers/"
- "/Users/lee/macsconfig/init.d/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/actions/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Login/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/test/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/routes/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Locations/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Content/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Assignments/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Devices/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Assignments/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/ContentItems/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/models/"
+ "/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/assignments/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Confirm/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/test/factories/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Eula/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Locations/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/CampaignSchedule/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Users/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/reducers/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/AssetSelector/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/App/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Navigation/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/migrations/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Filters/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/ActionsMenu/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Campaigns/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Filter/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/config/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/tasks/"
+ "/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/campaigns/"
+ "/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/devices/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/utils/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/seeders/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/__tests__/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/utils/auth/"
+ "/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/content_items/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/utils/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/CampaignSchedule/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Devices/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/api/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Schedules/"
+ "/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/locations/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Breadcrumbs/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Header/"
+ "/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/playlists/"
+ "/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/folders/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Assets/"
+ "/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Sequences/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "README.md"
- "Playlist.js"
- "debounce.js"
- "Contents.js"
- "ContentsTest.js"
+ "routes.js"
+ "config.js"
+ "authActions.js"
+ "Login.js"
  "mocha.opts"
- "schema.xml"
- "db-data-config.xml"
- "init.el"
- "07_linting.el"
+ "auth.js"
+ "LocationSelector.js"
+ "Contents.js"
+ "AssignmentsTableTest.js"
+ "DevicesTable.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/" (23184 17434 926365 737000) "routes.js" "config.js" "server.js" "reducers/" "client.js" "actions/" "._.DS_Store" ".DS_Store" "utils/" "theme/" "redux/" "helpers/" "containers/" "components/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Devices/" (23184 12256 531043 757000) "DevicesTest.js" "Devices.js" "Devices.scss" "DeviceTest.js" "Device.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/migrations/" (23184 12256 521044 206000) "20180223150000-role-description-length.js" "20180222141500-add-download-overrides.js" "20180220114400-add-default-data-to-client.js" "20180213115736-add-eula-fields-to-user-table.js" "20180208173300-add-missing-encode-type-permission.js" "20180206163332-add-missing-asset-permissions-to-request.js" "20180206111051-add-missing-device-permissions-to-request.js" "20180206093737-add-content-items-permissions-to-request.js" "20180202154857-add-missing-endless-aisle-permissions-to-request.js" "20180202112618-add-location-permissions-to-request.js" "20180202093421-add-missing-rule-permissions-to-request.js" "20180131163915-add-sign-permissions-to-request.js" "20180131152152-add-assignment-permissions-to-request.js" "20180131132030-add-missing-schedule-permissions-to-request.js" "20180130162252-add-playlist-permissions-to-request.js" "20180130150724-add-folder-permissions-to-request.js" "20180208120510-add-device-tags-table.js" "20180131131507-correct-schedule-request-action-entries.js" "20180131124556-correct-sequence-request-action-entries.js" "20180131123233-correct-playlist-request-action-entries.js" "20180131121000-correct-folder-request-entries.js" "20180125155200-add-commander-to-devices.js" "20180119105600-signlists-to-schedules.js" "20180118143500-alter-video-slice.js" "20180118120000-update-getroles-request.js" "20171214154639-add-description-to-playlists.js" "20171214145747-add-description-to-folders.js" "20171212164900-data-objects-assign-to-devices.js" "20171206101757-change-site-id-to-location-id.js" "20171128110300-assignment-table-properties.js" "20171124152100-insert-getclientsettings-request.js" "20171124122426-add-created-and-modified-data-to-assignments.js" "20171121094252-update-created-and-updated-to-set-current-timestamp.js" "20171120123455-data-corrections-for-devices-and-assignments.js" "20171120123445-update-zone-id-columns.js" "20171114105442-add-sign-id-to-schedule-entry.js" "20171103130553-set-location-parent-default-value-correctly.js" "20171031145300-alter-client-default-font.js" "20171023165600-alter-sign-add-has-video.js" "20171019130035-create-location-tag-table.js" "20171019125045-create-location-table.js" "20171018095926-alter-schedule-table.js" "20171018095015-alter-sequence-table.js" "20171017155825-alter-schedule-table.js" "20171013093709-alter-schedule-entry-table.js" "20171012153132-make-abstract-file-id-lowercase.js" "20170920145120-set_default_parent_value.js" "201709141205-add_endpoints_updated_table.js" "20170911092300-devices-multiple-commands.js" "20170908121456-add_folder_tag_table.js" "20170908111754-modify_parent_fields.js" "20170908110655-add_folder_table.js" "20170906121557-add_parent_field.js" "20170811134010-create_analytics_report_file.sql.js" "20170811133902-encode_types_threads.js" "20170811133617-increase_version_length.js" "20170811133004-add_prevent_usb.js" "20170811132535-add_desired_firmware_version.js" "20170811131419-alter_device_analytics.js" "20170811131226-create_analytics_report.js" "20170811130421-endpoint_config_analytics.js" "20170811121638-create_analytics.js" "20170810150458-password_upgrade.js" "20170810145704-add_client_createdDate.js" "20170810110050-permission-update.js" "20170728115420-add_created_and_modified_fields_to_store.js" "20170728085852-add_created_and_modified_fields_to_endpoint_config.js" "20170602112210-add_created_and_modified_fields_to_campaign.js" "20170602111526-add_campaign_tag_table.js" "20170602111254-add_schedule_tag_table.js" "20170510130911-playlist-created.js" "20170510101611-playlist_tag.js" "20170426093348-create_schedule_entries.js" "20170410111611-correct_created_and_modified_field_naming.js" "20170330094101-sequence_tag.js" "20170329102203-add-schedules.js" "20170101000011-create-encode-queue.js" "20170101000010-alter-user.js" "20170101000009-create-sign-tag.js" "20170101000008-alter-sign.js" "20170101000007-alter-sequence-created.js" "20170101000006-create-playlist-tag.js" "20170101000005-alter-playlist.js" "20170101000004-create-asset-tag.js" "20170101000003-create-asset.js" "20170101000002-create-abstract-file.js" "20170101000001-create-tag.js" "20170101000000-add-loadauth-request.js" "._.DS_Store" ".DS_Store" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/" (23184 14286 817553 904000) ".eslintignore" "coverage/" "Files/" "package.json" "server.babel.js" "runWithEnvVars.sh" "bitbucket-pipelines.yml" "README.md" "LICENSE" "node_modules/" "Input/" "._.DS_Store" ".DS_Store" ".nyc_output/" "test/" "sequelizeOptions.json" "runLocalhost.sh" "CONTRIBUTING.md" ".nycrc" ".gitignore" ".eslintrc" ".bootstraprc" ".babelrc" "common/" ".editorconfig" "build/" "webpack-assets.json" "webpack/" "static/" "src/" "docs/" "bin/" "api/" ".git/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/test/factories/" (23184 12256 532043 712000) "userFactories.js" "authFactories.js" "roleFactories.js" "sequenceFactories.js" "contentItemFactories.js" "assignmentFactories.js" "filterFactories.js" "assetFactories.js" "urlRulesetFactories.js" "siteFactories.js" "signFactories.js" "scheduleFactories.js" "playlistFactories.js" "navigationFactories.js" "locationFactories.js" "folderFactories.js" "endlessAisleFactories.js" "deviceFactories.js" "dataObjectFactories.js" "campaignScheduleFactories.js" "campaignFactories.js" "appFactories.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/models/" (23184 12256 521044 206000) "Devices.js" "Assignments.js" "index.js" "Tags.js" "Signs.js" "Sequences.js" "SearchFields.js" "Schedules.js" "Playlists.js" "Image.js" "Folders.js" "EncodeTypes.js" "EncodeQueueProcess.js" "EncodeQueue.js" "ContentItems.js" "CampaignSchedule.js" "Campaigns.js" "Users.js" "Locations.js" "Assets.js" "DataObjectTier.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Assignments/" (23184 12256 530043 802000) "AssignmentsTableTest.js" "AssignmentsTable.js" "AssignmentSelector.js" "AssignmentSelectorTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Locations/" (23184 12256 530043 802000) "LocationSelector.js" "LocationsTableTest.js" "LocationsTable.js" "LocationFormTest.js" "AddLocationDialog.js" "Locations.scss" "LocationSelectorTest.js" "LocationForm.js" "AddLocationDialogTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/actions/" (23184 12256 526043 982000) "deviceActionsTest.js" "deviceActions.js" "filterActions.js" "userActionsTest.js" "userActions.js" "urlRulesetActionsTest.js" "urlRulesetActions.js" "siteActionsTest.js" "siteActions.js" "signActionsTest.js" "signActions.js" "sequenceActionsTest.js" "sequenceActions.js" "scheduleActionsTest.js" "scheduleActions.js" "roleActionsTest.js" "roleActions.js" "playlistActionsTest.js" "playlistActions.js" "notificationActionsTest.js" "notificationActions.js" "navigationActionsTest.js" "navigationActions.js" "locationActionsTest.js" "locationActions.js" "folderActionsTest.js" "folderActions.js" "filterActionsTest.js" "endlessAisleActionsTest.js" "endlessAisleActions.js" "dialogActionsTest.js" "dialogActions.js" "dataObjectActionsTest.js" "dataObjectActions.js" "contentItemActionsTest.js" "contentItemActions.js" "campaignScheduleActionsTest.js" "campaignScheduleActions.js" "campaignActionsTest.js" "campaignActions.js" "authActionsTest.js" "authActions.js" "assignmentActionsTest.js" "assignmentActions.js" "assetActionsTest.js" "assetActions.js" "appActionsTest.js" "appActions.js" "actionTypes.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/routes/" (23184 12256 521044 206000) "contentItems.js" "campaignSchedule.js" "assignments.js" "assets.js" "devices.js" "auth.js" "campaigns.js" "dataObjects.js" "users.js" "urlRulesets.js" "signs.js" "sequences.js" "schedules.js" "roles.js" "playlists.js" "locations.js" "folders.js" "endless.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/test/" (23184 12239 655801 234000) "mocha.opts" "helpers.js" "testSetup.js" "helpers/" "factories/" "coverageReport.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Login/" (23184 12958 173030 446000) "LoginTest.js" "Login.js" "Login.scss" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Assignments/" (23184 9616 138182 246000) "AssignmentsTest.js" "Assignments.js" "CurrentAssignmentTest.js" "CurrentAssignment.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Sequences/" (23183 59514 511581 490000) "SequenceTest.js" "Sequence.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Assets/" (23184 6145 353178 88000) "AssetImageTest.js" "AssetImage.js" "AssetFormTest.js" "AssetStyles.scss" "AssetForm.js" "AssetsUploadsTest.js" "AssetsUploads.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Schedules/" (23183 59514 509581 617000) "Schedule.js" "ScheduleTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/tasks/" (23184 6145 352168 289000) "addStoredProcedures.js" "storedProcedures/" "initialData.sql" "initial.sql" "import_sql.js" "gradient.mp4" "drop_database.js" "directorySetup.js" "create_database.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Filter/" (23183 59514 493582 632000) "FilterTextTest.js" "FilterText.js" "FilterTest.js" "FilterFolderDepth.js" "FilterDropdown.js" "FilterDateRange.js" "FilterTagListTest.js" "FilterTagList.js" "FilterSliderTest.js" "FilterSlider.js" "FilterDropdownTest.js" "FilterCheckboxListTest.js" "FilterCheckboxList.js" "FilterDateRangeTest.js" "Filter.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Campaigns/" (23183 59514 503581 997000) "Campaign.js" "CampaignTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Users/" (23183 59514 512581 427000) "Users.js" "User.js" "UsersTest.js" "Users.scss" "UserTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Locations/" (23183 59514 509581 617000) "LocationsTest.js" "Locations.js" "Location.js" "LocationTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Confirm/" (23182 63330 268084 152000) "Confirm.js" "ConfirmTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Content/" (23184 730 97212 209000) "ContentsTest.js" "Contents.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Folders/" (23181 15873 849248 471000) "FolderFormTest.js" "FolderForm.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/ContentItems/" (23184 730 96128 926000) "ContentItemsTableTest.js" "ContentItemsTable.js" "ContentItemsTable.scss" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Devices/" (23184 730 96128 926000) "DeviceFormTest.js" "RegisterDeviceDialog.js" "UpgradeDeviceDialogTest.js" "UpgradeDeviceDialog.js" "UnregisterDeviceDialogTest.js" "UnregisterDeviceDialog.js" "ScreenshotDialogTest.js" "ScreenshotDialog.js" "RestartPlayerDialogTest.js" "RestartPlayerDialog.js" "RequestScreenshotDialogTest.js" "RequestScreenshotDialog.js" "RequestDiagnosticsDialogTest.js" "RequestDiagnosticsDialog.js" "RegisterDeviceDialogTest.js" "RebootDeviceDialogTest.js" "RebootDeviceDialog.js" "DiagnosticsDialogTest.js" "DiagnosticsDialog.js" "DevicesTableTest.js" "DevicesTable.js" "DeviceUtilsTest.js" "DeviceUtils.js" "DeviceUptimeDiagramTest.js" "DeviceUptimeDiagram.js" "DeviceTitleTest.js" "DeviceTitle.js" "DeviceStatusTest.js" "DeviceStatus.js" "DeviceForm.js" "CopyDeviceConfigDialogTest.js" "CopyDeviceConfigDialog.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Header/" (23181 15873 849248 471000) "Header.scss" "Header.js" "HeaderTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/__tests__/" (23181 15873 844248 689000) "campaignsTest.js" "usersTest.js" "urlRulesetTests.js" "testFixtures.js" "signsTest.js" "sequencesTest.js" "schedulesTest.js" "rolesTest.js" "playlistsTest.js" "loginSetup.js" "loggerTest.js" "locationsTest.js" "foldersTest.js" "fileEncTest.js" "endlessAislesTest.js" "devicesTest.js" "databaseTest.js" "dataObjectsTest.js" "contentItemsTest.js" "campaignScheduleTest.js" "assignmentsTest.js" "assetsTest.js" "postman/" "manual/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Filters/" (23181 15873 853248 297000) "FiltersTest.js" "Filters.scss" "Filters.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Navigation/" (23181 15873 851248 384000) "NavigationTest.js" "Navigation.js" "NavigationSectionTest.js" "NavigationSection.js" "Navigation.scss" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/App/" (23181 15873 852248 341000) "App.scss" "AppTest.js" "App.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/AssetSelector/" (23181 15873 844248 689000) "AssetSelector.js" "AssetSelectorTest.js" "AssetSelector.scss" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/reducers/" (23180 4675 426925 31000) "filterReducer.js" "usersReducerTest.js" "usersReducer.js" "urlRulesetReducerTest.js" "urlRulesetReducer.js" "sitesReducerTest.js" "sitesReducer.js" "signsReducerTest.js" "signsReducer.js" "sequencesReducerTest.js" "sequencesReducer.js" "schedulesReducerTest.js" "schedulesReducer.js" "rootReducer.js" "rolesReducerTest.js" "rolesReducer.js" "playlistsReducerTest.js" "playlistsReducer.js" "notificationsReducerTest.js" "notificationsReducer.js" "navigationReducerTest.js" "navigationReducer.js" "locationsReducerTest.js" "locationsReducer.js" "foldersReducerTest.js" "foldersReducer.js" "filterReducerTest.js" "endlessAisleReducerTest.js" "endlessAisleReducer.js" "dialogReducerTest.js" "dialogReducer.js" "devicesReducerTest.js" "devicesReducer.js" "dataObjectsReducerTest.js" "dataObjectsReducer.js" "contentItemsReducerTest.js" "contentItemsReducer.js" "campaignsReducerTest.js" "campaignsReducer.js" "campaignScheduleReducerTest.js" "campaignScheduleReducer.js" "authReducerTest.js" "authReducer.js" "assignmentsReducerTest.js" "assignmentsReducer.js" "assetsReducerTest.js" "assetsReducer.js" "appReducerTest.js" "appReducer.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Eula/" (23180 4675 399925 209000) "EulaText.js" "EulaModal.js" "Eula.scss" "AupText.js" "EulaModalTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/assignments/" (23180 19504 319710 720000) "db-data-config.xml" "schema.xml" "solrconfig.xml" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/" (23173 33321 879143 812000) "Eula/" "Users/" "UrlRulesets/" "Tag/" "Spinner/" "Slider/" "Signs/" "Sequences/" "Schedules/" "Roles/" "Playlists/" "Notifications/" "Navigation/" "Locations/" "Header/" "Folders/" "EndlessAisles/" "Devices/" "DataObjects/" "ContentItems/" "Campaigns/" "CampaignSchedule/" "Breadcrumbs/" "Assignments/" "Assets/" "ActionsMenu/" "AssetSelector/" "UserProfile/" "TagCloud/" "FullScreenDropZone/" "UploadPrompt/" "UserBar/" "ToolTipIcon/" "SSTable/" "QuickAction/" "Prompt/" "Pill/" "Confirm/" "Avatar/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/seeders/" (23169 43220 303325 256000) "20180205090038-data-objects-seeds.js" "20180201154213-url-ruleset-data.js" "20180105113602-assignments.js" "20171019145800-locations.js" "20171009143016-video-files.js" "20170926164900-encode-profiles.js" "20170915112401-endpoint-uploads.js" "20170915112400-endpoint-commands.js" "20170913135500-endpoint_heartbeat.js" "20170911164500-endpoint_error.js" "20170911160600-endpoints.js" "20170908134718-folders.js" "20170706141337-endpoint_config.js" "20170608133715-campaign_tag.js" "20170606154911-playlist_tag.js" "20170606140254-campaign_schedules.js" "20170606090144-campaigns.js" "20170426100503-schedule_entry.js" "20170404135727-role_permission.js" "20170404092052-playlist.js" "20170404082733-sequence_entry.js" "20170331093937-sign.js" "20170330124159-sequence_tag.js" "20170330123346-tag.js" "20170329113311-schedule.js" "20170322153930-store.js" "20170322152121-role.js" "20170322145252-user.js" "20170322143033-client.js" "20170322121949-sequence.js" "npm-debug.log" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/ActionsMenu/" (23169 32048 177181 139000) "ActionsMenuTest.js" "ActionsMenu.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/QuickAction/" (23169 32048 202180 5000) "QuickActionTest.js" "QuickAction.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/docs/api/" (23169 32048 160181 910000) "troubleshooting.md" "sequences.md" "database.md" "Signs.md" "Migrations_And_Seeds.md" "Assets.md" "Users.md" "Playlists.md" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Playlists/" (23169 32048 236178 462000) "PlaylistTest.js" "Playlist.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/" (23169 32408 32306 503000) "README.md" "npm-debug.log" "setupAll.sh" "assignments/" "setupAndImport.sh" "playlists/" "locations/" "folders/" "devices/" "content_items/" "campaigns/" "schedules/" "signs/" "sequences/" "setConfig.sh" "assets/" ".git/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/CampaignSchedule/" (23169 32048 223179 52000) "CampaignScheduleTest.js" "CampaignSchedule.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Breadcrumbs/" (23169 32048 183180 867000) "BreadcrumbsTest.js" "Breadcrumbs.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/CampaignSchedule/" (23169 32048 184180 821000) "CampaignScheduleStyles.scss" "CampaignScheduleEntriesTableTest.js" "CampaignScheduleEntriesTable.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/utils/" (23169 32048 273176 784000) "validationHelper.js" "validation.js" "updateQueryStringTest.js" "updateQueryString.js" "tagListTest.js" "tagList.js" "navigationToggle.js" "linkHelpersTest.js" "linkHelpers.js" "launchCreator.js" "getSignPreview.js" "getAssetPreview.js" "formatUnitsTest.js" "formatUnits.js" "fileTest.js" "file.js" "errorMessageTest.js" "errorMessage.js" "debounce.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/utils/auth/" (23169 32048 150182 364000) "ipWhitelist.js" "index.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/utils/" (23169 32048 152182 273000) "logger.js" "legacyProxyUpload.js" "legacyProxy.js" "fileUtils.js" "fileProxy.js" "endpointUpdater.js" "database.js" "callLegacyText.js" "apiError.js" "Solr.js" "fileEnc/" "auth/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/devices/" (23169 32408 34306 416000) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/config/" (23169 32048 94184 904000) "config.json" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/api/" (23169 32048 136182 999000) "tasks/" "config/" "config.js" "api.js" "seeders/" "migrations/" "._.DS_Store" ".DS_Store" "utils/" "routes/" "models/" "__tests__/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/" (23169 32048 241178 236000) "UrlRulesets/" "Signs/" "Sequences/" "Schedules/" "Playlists/" "Locations/" "Folders/" "ErrorPage/" "Content/" "Campaigns/" "CampaignSchedule/" "Assignments/" "Assets/" "EndlessAisles/" "Users/" "Roles/" "Login/" "Home/" "Devices/" "DataObjects/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/" (23169 32048 245178 54000) "PaginationInfo/" "Pagination/" "FiltersApplied/" "Filters/" "Filter/" "Pages/" "App/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/EndlessAisles/" (23151 17190 934121 778000) "EndlessAislesTest.js" "EndlessAisleTest.js" "EndlessAisle.js" "EndlessAisles.scss" "EndlessAisles.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Folders/" (23151 17190 934121 778000) "FolderTest.js" "Folder.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/UploadPrompt/" (23145 56175 84608 865000) "UploadPromptTest.js" "UploadPrompt.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/solrConfig/" (22755 31937 281711 835000) "README.md" "db-data-config.xml" "conf/" "schema.xml" "assets/" "setConfig.sh" "solrconfig.xml" ".git/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/content_items/" (23143 10678 337700 955000) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/Campaigns/" (23137 58684 206408 163000) "DuplicateCampaignDialogTest.js" "DuplicateCampaignDialog.js" "CampaignStyles.scss" "CampaignFormTest.js" "CampaignForm.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/UserBar/" (23136 40182 436232 860000) "UserBar.js" "UserBarTest.js" "UserBar.scss" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/EndlessAisles/" (23136 40182 434066 291000) "EndlessAisleSigns.js" "EndlessAislesTableTest.js" "EndlessAisleSignsTest.js" "AddAttractorDialogTest.js" "AddAttractorDialog.js" "ViewReportDialogTest.js" "ViewReportDialog.js" "EndlessAislesTable.js" "DuplicateEndlessAisleDialogTest.js" "DuplicateEndlessAisleDialog.js" "DataReportDialogTest.js" "DataReportDialog.js" "AddEndlessAisleDialogTest.js" "AddEndlessAisleDialog.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/playlists/" (23127 7718 137636 409000) "db-data-config.xml" "schema.xml" "solrconfig.xml" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/configs/solrconfig/" (22759 29412 38596 790000) "solrconfig.xml" "setConfig.sh" "schema.xml" "db-data-config.xml" "assets/" "README.md" ".git/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/configs/" (22759 29401 630020 89000) "solrconfig/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/folders/" (23124 53989 342730 834000) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Assets/" (23123 20943 126561 258000) "AssetTest.js" "Asset.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/DataObjects/" (23123 20943 128561 151000) "Tier.js" "DataObjects.js" "DataObjectTest.js" "DataObject.js" "DataObjects.scss" "TierTest.js" "DataObjectsTest.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Signs/" (23123 20943 133560 884000) "SignTest.js" "Sign.js" "SignFormTest.js" "Sign.scss" "SignForm.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/UrlRulesets/" (23123 20943 134560 830000) "UrlRulesetsTest.js" "UrlRulesets.js" "UrlRulesetTest.js" "UrlRuleset.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/docs/" (23071 55225 239865 348000) "index.md" "LINTING.md" "package.json.md" "TODO.md" "styleGuide/" "._.DS_Store" ".DS_Store" "testing/" "SystemDiagrams/" "ReduxAndState/" "api/" "InstallingTheKit/" "AddingAPage/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/components/UrlRulesets/" (23115 43543 577932 534000) "UrlRulesetsTableTest.js" "UrlRulesetsTable.js" "UrlRulesTableTest.js" "UrlRulesTable.js" "EditUrlRuleDialogTest.js" "EditUrlRuleDialog.js" "DuplicateUrlRulesetDialogTest.js" "DuplicateUrlRulesetDialog.js" "AddUrlRulesetDialogTest.js" "AddUrlRulesetDialog.js" "AddUrlRuleDialogTest.js" "AddUrlRuleDialog.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/ErrorPage/" (23071 55227 344727 954000) "ErrorPage.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/bin/" (23071 55224 857288 710000) "encodeQueue.js" "api.js" "server.js" "endpointUpdater.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/test/helpers/" (23071 55228 424218 22000) "modal.js" "providerHelper.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/" (23090 25372 216763 574000) "20171128142028-content-assignments.js" "configs/" "._.DS_Store" ".DS_Store" "solrConfig/" "npm-debug.log" "director/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/helpers/" (23071 55227 704891 461000) "Html.js" "ApiClient.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Home/" (23071 55227 389748 392000) "SS-Logo.png" "Home.scss" "Home.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/redux/middleware/" (23097 13331 280675 858000) "fetchCheck.js" "clientMiddleware.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/redux/" (23071 55227 997024 84000) "createStore.js" "middleware/" "../" "./")
+
+ ("/home/Developer/" (23096 52418 977132 712000) "emacs_old_d/" ".viminfo" ".nvm/" "tmp/" "TEE-CLC-14.0.1.zip" ".gnome2_private/" "mypol.pp" "mypol.te" "npm-debug.log" "pass.sql" ".mysql_history" ".pki/" ".emacs.d/" ".cmake/" ".rnd" ".ssh/" ".gnupg/" ".mysql/" ".v8flags.5.1.281.83.672caf27f5363dc833bda5099775e891.json" ".v8flags.5.1.281.83.Developer.json" ".DS_Store" ".lesshst" ".node-gyp/" ".atom/" ".node_repl_history" ".babel.json" ".npm/" "emacs-25.3/" ".gnome2/" ".ICEauthority" ".Xauthority" "index.html" "prepareTFS.sh" "._.DS_Store" "Development/" "workspace/" ".p2/" ".eclipse/" "Applications/" ".mozilla/" ".gstreamer-0.10/" ".esd_auth" ".local/" ".gtkrc-2.0-kde4" ".kde/" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Templates/" "Downloads/" "Desktop/" ".config/" ".cache/" "emacs-25.3.tar.gz" "crontab" ".microsoft/" ".dbus/" ".gitconfig" ".vnc/" ".bash_history" ".bashrc" ".bash_profile" ".bash_logout" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/static/assets/images/logo/" (23078 31729 474320 841000) "logo.jpg" "signstix_landscape_orange.svg" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/static/assets/images/" (22774 13702 204756 106000) "._.DS_Store" ".DS_Store" "logo/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/static/assets/" (22774 13702 627657 745000) "._.DS_Store" ".DS_Store" "images/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/static/" (23078 31729 483315 928000) "logo.jpg" "safari-pinned-tab.svg" "mstile-150x150.png" "manifest.json" "logo.png" "favicon.png" "favicon.ico" "favicon-32x32.png" "favicon-16x16.png" "apple-touch-icon.png" "android-chrome-192x192.png" "._.DS_Store" ".DS_Store" "dist/" "assets/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/" (22765 62115 92922 311000) "solrconfig/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/locations/" (23062 56523 827619 974000) "solrconfig.xml" "schema.xml" "db-data-config.xml" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Roles/" (23071 55227 542817 883000) "RolesTest.js" "Roles.scss" "Roles.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/git/director/src/containers/Pages/Role/" (23071 55227 518806 983000) "RoleTest.js" "RoleFormContainerTest.js" "RoleFormContainer.js" "Role.scss" "Role.js" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/configs/solrconfig/campaigns/" (23087 43779 310937 315000) "solrconfig.xml" "schema.xml" "db-data-config.xml" "../" "./")
+
+ ("/home/Developer/.emacs.d/init.d/" (23087 44053 227653 257000) "07_linting.el" "05_modes.el" "04_theme.el" "03_keys.el" "02_packages.el" "01_initialize.el" "../" "./")
+
+ ("/home/Developer/.emacs.d/snippets/js3-mode/" (23087 48005 830972 731000) "log.el" "pending.el" "itshould.el" "function.el" "expecttobe.el" "expectnotequal.el" "expectequal.el" "desc.el" "definefunction.el" "cwum.el" "cwm.el" "connectedcomponent.el" "component.el" "cdu.el" "cdm.el" "beforeEach.el" "before.el" "asyncconnectedcomponent.el" "../" "./")
+
+ ("/home/Developer/.emacs.d/snippets/" (23081 8004 40451 907000) "js3-mode/" "../" "./")
+
+ ("/home/Developer/.emacs.d/" (23087 44053 644717 128000) "auto-save-list/" "snippets/" "network-security.data" "init.el" "init.d/" "ido.last" "elpa/" "ac-comphist.dat" "README.md" ".gitignore" ".git/" "../" "./")
+
+ ("/home/" (22557 64764 0 0) "ftpuser/" "Developer/" "../" "./")
+
+ ("/home/Developer/Development/" (22730 47545 363854 418000) "._.DS_Store" ".DS_Store" "test/" "thirdparty/" "SignStix_TFS/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/" (23067 55675 166530 226000) "working/" "._.DS_Store" ".DS_Store" "V3/" "../" "./")
+
+ ("/home/Developer/Development/SignStix_TFS/V3/" (22766 13310 127445 122000) "solr-5.5.0/" "._.DS_Store" ".DS_Store" "old/" "git/" "configs/" "Source/" "../" "./")
+
  ("/Users/lee/.emacs.d/" (23012 24874 327630 8000) ".git/" "elpa/" "network-security.data" ".gitignore" "README.md" "init.el" "auto-save-list/" "init.d/" "ido.last" "ac-comphist.dat" "../" "./")
 
  ("/Users/lee/code/core/director/src/containers/Pages/Playlists/" (23008 53218 835003 240000) "Playlist.js" "PlaylistTest.js" "Playlist.scss" "PlaylistsTest.js" "Playlists.js" "../" "./")
 
  ("/Users/lee/code/core/director/src/utils/" (23008 53218 838201 489000) "getSignPreview.js" "updateQueryStringTest.js" "file.js" "formatUnitsTest.js" "updateQueryString.js" "validation.js" "tagList.js" "formatUnits.js" "debounce.js" "validationHelper.js" "linkHelpers.js" "linkHelpersTest.js" "getAssetPreview.js" "launchCreator.js" "reduxFormProps.js" "fileTest.js" "../" "./")
-
- ("/Users/lee/code/core/director/src/containers/Pages/Content/" (23008 53290 906340 281000) "Contents.js" "ContentsTest.js" "../" "./")
-
- ("/Users/lee/code/core/director/test/" (23008 54078 590097 838000) "helpers/" "helpers.js" "factories/" "mocha.opts" "testSetup.js" "../" "./")
-
- ("/Users/lee/code/core/director/src/containers/Pages/" (23008 53218 820047 538000) "EndlessAisles/" "Devices/" "Login/" "Assets/" "DataObjects/" "Campaigns/" "Users/" "Sequences/" "Signs/" "UrlRulesets/" "Schedules/" "Roles/" "Content/" "NotFound/" "Playlists/" "Role/" "Home/" "../" "./")
-
- ("/Users/lee/code/core/director/src/" (23008 53218 837964 317000) "reducers/" "helpers/" "redux/" "containers/" "actions/" "routes.js" "theme/" "components/" "config.js" "utils/" "server.js" "client.js" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/content_items/" (23008 50101 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/assets/" (23008 48061 0 0) "db-data-config.xml" "schema.xml" "solrconfig.xml" "../" "./")
-
- ("/Users/lee/.emacs.d/init.d/" (23008 49687 640899 716000) "07_linting.el" "04_theme.el" "02_packages.el" "01_initialize.el" "05_modes.el" "03_keys.el" "../" "./")
-
- ("/Users/lee/" (23008 49012 481319 892000) ".viminfo" ".bash_history" ".gitconfig" "Downloads/" ".oh-my-zsh/" ".babel.json" "Documents/" ".npm/" ".Trash/" "Dropbox/" ".zsh-update" "Applications/" "Movies/" ".ssh/" ".zcompdump-leemac-5.3" ".dropbox/" "Public/" ".bash_sessions/" ".emacs.d/" ".oracle_jre_usage/" "Library/" "Desktop/" ".zsh_history" "code/" ".atom/" "Pictures/" "Creative Cloud Files/" ".zshrc" ".CFUserTextEncoding" ".DS_Store" ".node-gyp/" ".gitkraken/" "Music/" ".config/" "../" "./")
-
- ("/Users/lee/code/core/director/api/migrations/" (23008 38753 864221 447000) "20170101000005-alter-playlist.js" "20170410111611-correct_created_and_modified_field_naming.js" "20170908110655-add_folder_table.js" "20170426093348-create_schedule_entries.js" "20170811130421-endpoint_config_analytics.js" "20170101000003-create-asset-tag.js" "20170329102203-add-schedules.js" "20170811132535-add_desired_firmware_version.js" "20170908111754-modify_parent_fields.js" "20170101000000-add-loadauth-request.js" "20170602111254-add_schedule_tag_table.js" "20170908121456-add_folder_tag_table.js" "20170811133617-increase_version_length.js" "20170811121638-create_analytics.js" "20170101000000-create-tag.js" "201709141205-add_endpoints_updated_table.js" "20170911092300-devices-multiple-commands.js" "20170810110050-permission-update.js" "20171013093709-alter-schedule-entry-table.js" "20170101000004-create-encode-queue.js" "20170101000002-create-asset.js" "20170906121557-add_parent_field.js" "20170510101611-playlist_tag.js" "20170810150458-password_upgrade.js" "20170920145120-set_default_parent_value.js" "20170101000008-alter-sign.js" "20170811131419-alter_device_analytics.js" "20170101000007-alter-sequence-created.js" "20170811133902-encode_types_threads.js" "20170728085852-add_created_and_modified_fields_to_endpoint_config.js" "20170810145704-add_client_createdDate.js" "20170728115420-add_created_and_modified_fields_to_store.js" "20170101000001-create-abstract-file.js" "20170101000010-alter-user.js" "20170330094101-sequence_tag.js" "20170101000009-create-sign-tag.js" "20170602112210-add_created_and_modified_fields_to_campaign.js" "20170602111526-add_campaign_tag_table.js" "20170811133004-add_prevent_usb.js" "20170811134010-create_analytics_report_file.sql.js" "20170510130911-playlist-created.js" "20170811131226-create_analytics_report.js" "20170101000006-create-playlist-tag.js" "../" "./")
-
- ("/Users/lee/code/core/director/api/models/" (23008 37826 312136 371000) "Sites.js" "Assets.js" "Devices.js" "Image.js" "Schedules.js" "EncodeQueueProcess.js" "Folders.js" "DataObjectTier.js" "Signs.js" "SearchFields.js" "index.js" "Users.js" "Sequences.js" "Tags.js" "Campaigns.js" "Playlists.js" "ContentItems.js" "EncodeQueue.js" "../" "./")
-
- ("/Users/lee/code/core/director/api/" (23008 38733 918703 705000) "routes/" "api.js" "seeders/" "__tests__/" "config.js" "models/" "utils/" "config/" ".DS_Store" "tasks/" "migrations/" "../" "./")
-
- ("/Users/lee/code/core/director/" (23008 38733 920407 435000) "bitbucket-pipelines.yml" "src/" ".nyc_output/" "coverage/" ".git/" ".nycrc" ".eslintignore" "api/" "Files/" "CONTRIBUTING.md" "static/" "webpack-assets.json" "runWithEnvVars.sh" "package.json" "package-lock.json" ".gitignore" "common/" ".bootstraprc" "webpack/" "README.md" ".editorconfig" "docs/" "node_modules/" ".eslintrc" "sequelizeOptions.json" "Input/" "bin/" "test/" "LICENSE" ".DS_Store" "server.babel.js" ".babelrc" "runLocalhost.sh" "../" "./")
-
- ("/Users/lee/code/core/director/api/utils/" (23008 35046 607513 632000) "fileProxy.js" "callLegacyText.js" "endpointUpdater.js" "fileEnc/" "auth/" "apiError.js" "logger.js" "legacyProxyUpload.js" "Solr.js" "legacyProxy.js" "fileUtils.js" "database.js" "../" "./")
-
- ("/Users/lee/code/core/director/api/config/" (23008 35046 607171 473000) "config.json" "../" "./")
-
- ("/Users/lee/code/core/director/src/containers/Pages/Signs/" (22996 63146 345385 994000) "SignsTest.js" "SignTest.js" "Sign.js" "Signs.js" "SignFormTest.js" "Sign.scss" "SignForm.js" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/campaigns/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/folders/" (23008 27124 0 0) "schema.xml" "solrconfig.xml" "db-data-config.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/playlists/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sequences/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/schedules/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/signs/" (23008 27088 0 0) "schema.xml" "db-data-config.xml" "solrconfig.xml" "../" "./")
-
- ("/Users/lee/code/core/director/src/components/AssetSelector/" (23007 30439 300718 432000) "AssetSelector.js" "AssetSelectorTest.js" "AssetSelector.scss" "../" "./")
-
- ("/Users/lee/code/core/director/src/components/ContentItems/" (23007 30439 303055 371000) "ContentItemsTableTest.js" "ContentItemsTable.scss" "ContentItemsTable.js" "../" "./")
-
- ("/Users/lee/code/core/director/api/routes/" (23007 27206 957930 347000) "sites.js" "assets.js" "urlRulesets.js" "devices.js" "schedules.js" "endless.js" "folders.js" "dataObjects.js" "signs.js" "users.js" "roles.js" "sequences.js" "auth.js" "campaigns.js" "playlists.js" "contentItems.js" "../" "./")
-
- ("/Users/lee/code/core/director/src/components/Tag/" (22998 7611 425953 718000) "TagTest.js" "Tag.js" "Tag.scss" "../" "./")
-
- ("/Users/lee/code/core/director/src/components/Folders/" (23007 27206 930908 221000) "FolderSelect.scss" "FolderSelect.js" "FolderSelectTest.js" "../" "./")
-
- ("/Users/lee/code/core/director/src/components/" (23007 27221 897549 475000) "EndlessAisles/" "Devices/" "Notifications/" "Tag/" "SSText/" "Sign/" "TagCloud/" "Assets/" "ToolTipIcon/" "DataObjects/" "Campaigns/" "UserProfile/" "Folders/" "SSLink/" "Avatar/" "Users/" "UserBar/" "FullScreenDropZone/" "Sequences/" "AssetSelector/" "SelectorDialog/" "Prompt/" "UrlRulesets/" "QuickAction/" "Schedules/" "Spinner/" "Slider/" "QuickActionsMenu/" "Pill/" "Navigation/" "Confirm/" "GraphLoader/" "UploadPrompt/" "SSTable/" "RoleForm/" "ContentItems/" "Playlists/" "FormFilter/" "../" "./")
-
- ("/Users/lee/code/core/director/src/containers/" (22986 16068 335496 422000) "Header/" "PaginationInfo/" "Pages/" "ActionsMenu/" "Filter/" "SubHeader/" "DevTools/" "Dialog/" "Navigation/" "App/" "FiltersApplied/" "Pagination/" "Filters/" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/zones/" (22911 19880 0 0) "solrconfig.xml" "schema.xml" "db-data-config.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/sites/" (22944 4967 0 0) "solrconfig.xml" "schema.xml" "db-data-config.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/devices/" (22996 62298 0 0) "db-data-config.xml" "schema.xml" "solrconfig.xml" "../" "./")
-
- ("/Volumes/Developer/Development/SignStix_TFS/V3/configs/solrconfig/" (22966 35349 0 0) "folders/" "README.md" "npm-debug.log" "sites/" "zones/" "setupAndImport.sh" "playlists/" "devices/" "content_items/" "campaigns/" "schedules/" "signs/" "sequences/" "setConfig.sh" "assets/" ".git/" "../" "./")
-
- ("/Users/lee/code/" (22986 16038 874038 901000) "core/" "../" "./")
-
- ("/Users/lee/code/core/" (22986 16060 202573 968000) "director/" "../" "./")
-
- ("/Users/lee/code/collectplus/app/assets/stylesheets/partials/v2/components/" (22339 2956 0 0) "forms/" "_why_use_collectplus.css.scss" "_trust_pilot_badge.css.scss" "_tabs.css.scss" "_store_network_pane.css.scss" "_star_rating.css.scss" "_pricing_matrix.css.scss" "_price_selection.css.scss" "_modal.css.scss" "_loyalty_banner.css.scss" "_limited_use_notice.css.scss" "_legacy_browser_warning.css.scss" "_images_carousel.css.scss" "_how_it_works_pane.css.scss" "_footer_call_to_actions.css.scss" "_cover_value_warning.css.scss" "_click_and_collect_infographic.css.scss" "_breadcrumbs.css.scss" "_body_store_locator.css.scss" "_base.css.scss" "_alerts_and_notices.css.scss" "_admin_tables.css.scss" ".sass-cache/" "../" "./")
-
- ("/Users/lee/code/collectplus/app/assets/javascripts/angular/templates/click_and_collect/" (22333 31698 0 0) "why_use_collectplus.html" "how_it_works.html" "featured_partners.html" "click_and_collect.html" "all_partners.html" ".#all_partners.html" "../" "./")
-
- ("/Users/lee/code/collectplus/tests/unit/services/api/v2/" (22325 44195 0 0) "user.js" "tracking.js" "returns.js" "retailers.js" "orders.js" "click_and_collect.js" ".#click_and_collect.js" "../" "./")
-
- ("/Users/lee/code/collectplus/tests/common/utils/api/v2/" (22325 30661 0 0) "user-mocks.js" "translate.js" "track.js" "token.js" "returns-mocks.js" "retailers-mocks.js" "orders-mocks.js" "click-and-collect-mocks.js" "../" "./")
-
- ("/Users/lee/code/collectplus/app/assets/javascripts/angular/controllers/" (22323 18191 0 0) "user.js" "tracking.js" "terms.js" "store_locator.js" "signup.js" "return.js" "order_confirmation.js" "order.js" "menu.js" "maps.js" "login.js" "home.js" "forgot.js" "feedback.js" "dashboard.js" "contact.js" "click_and_collect.js" "barcode.js" "../" "./")
-
- ("/Users/lee/code/collectplus/app/assets/javascripts/angular/" (22305 60381 0 0) "templates/" "services/" "locales/" "directives/" "controllers/" "app_standalone.js" "app.mobile.js" "app.js" "../" "./")
-
- ("/Users/lee/code/collectplus/app/assets/javascripts/angular/templates/" (22305 52203 0 0) "user.js" "user/" "tracking.js" "tracking/" "storelocator.js" "storelocator/" "retailer.js" "retailer/" "order.js" "order/" "modalbase.js" "modalbase/" "mobile.js" "mobile/" "dashboard.js" "dashboard/" "../" "./")
-
- ("/Users/lee/code/collectplus/app/assets/javascripts/angular/templates/storelocator/" (22305 60466 0 0) "storelocator_main.html" "panes.html" "location_search_form.html" "detailed_external.html" "detailed.html" "../" "./")
-
- ("/Users/lee/code/blog/" (22304 33551 0 0) "xmlrpc.php" "wp-trackback.php" "wp-signup.php" "wp-settings.php" "wp-mail.php" "wp-login.php" "wp-load.php" "wp-links-opml.php" "wp-includes/" "wp-cron.php" "wp-content/" "wp-config.php" "wp-config-sample.php" "wp-comments-post.php" "wp-blog-header.php" "wp-admin/" "wp-activate.php" "readme.html" "npm-debug.log" "license.txt" "index.php" "config.ru" ".ruby-version" ".ruby-gemset" ".pow/" ".DS_Store" "../" "./")
-
- ("/Users/lee/code/blog/wp-content/" (22303 27515 0 0) "uploads/" "upgrade/" "themes/" "plugins/" "languages/" "index.php" ".DS_Store" "../" "./")
-
- ("/Users/lee/code/blog/wp-content/themes/" (22304 36285 0 0) "twentysixteen/" "twentyfourteen/" "twentyfifteen/" "stlthy_wptheme/" "index.php" "FoundationPress/" ".DS_Store" "../" "./")
-
- ("/Users/lee/code/blog/wp-content/themes/FoundationPress/" (22304 35272 0 0) "woocommerce.php" "template-parts/" "style.css" "single.php" "sidebar.php" "searchform.php" "search.php" "screenshot.png" "README.md" "page.php" "page-templates/" "package.json" "node_modules/" "MIT-LICENSE.txt" "library/" "languages/" "index.php" "header.php" "gulpfile.js" "functions.php" "footer.php" "composer.lock" "composer.json" "comments.php" "codesniffer.ruleset.xml" "CHANGELOG.md" "bower.json" "assets/" "archive.php" "404.php" ".travis.yml" ".gitignore" ".github/" ".git/" ".bowerrc" ".babelrc" "../" "./")
-
- ("/Users/lee/code/collectplus/" (22296 55195 0 0) "vendor/" "Vagrantfile" "tmp/" "tests/" "spec/" "script/" "README.md" "Rakefile" "public/" "private/" "precompile/" "package.json" "node_modules/" "MOBILE.md" "mobile/" "log/" "lib/" "gulpfile.js" "gulp/" "Gemfile.lock" "Gemfile" "features/" "doc/" "db/" "config.ru" "config/" "circle.yml" "chef/" "Capfile" "bower.json" "aws/" "app/" ".ruby-version" ".ruby-gemset" ".rubocop_todo.yml" ".rubocop.yml" ".rspec" ".powenv" ".phraseapp.yml.example" ".phraseapp.yml" ".phrase" ".overcommit.yml" ".jshintrc" ".gitmodules" ".gitignore" ".git/" ".DS_Store" ".codeclimate.yml" ".bowerrc" "../" "./")
-
- ("/Users/lee/code/collectplus/app/" (22251 48592 0 0) "views/" "uploaders/" "services/" "presenters/" "models/" "middleware/" "jobs/" "helpers/" "controllers/" "constraints/" "concerns/" "chewy/" "assets/" ".DS_Store" "../" "./")
-
- ("/Users/lee/code/collectplus/app/views/" (22288 44285 0 0) "voucher_mailer/" "users/" "user_sessions/" "user_mailer/" "user_activations/" "transactions/" "stores/" "store_locator/" "shared/" "search/" "saved_parcels/" "returns_stores/" "returns/" "return_mailer/" "retailers/" "reset_password/" "report_mailer/" "referrals/" "referral_mailer/" "purchased_parcels/" "postcodes/" "payments/" "parcels/" "parcel_trackers/" "parcel_feedbacks/" "pages/" "orders/" "order_mailer/" "notifier/" "news/" "map/" "local_landing_pages/" "layouts/" "labels/" "kissmetrics/" "home/" "google/" "errors/" "dashboard/" "cs/" "contact_requests/" "contact_request_mailer/" "claims/" "claim_mailer/" "cancellations/" "batches/" "api/" "angular_test/" "analytics/" "admin/" "addresses/" "../" "./")
-
- ("/Users/lee/code/collectplus/app/views/layouts/" (22288 46417 0 0) "v2/" "pages.html.haml" "navigation/" "map_overlay.html.haml" "labels.html.haml" "empty_overlay.html.haml" "application.html.haml" "angular/" "admin.html.haml" "_v1_stylesheets.html.haml" "_user_navigation.html.haml" "_top_nav.html.haml" "_skip_nav.html.haml" "_navigation.html.haml" "_legacy_browser_warning.html.haml" "_header.html.haml" "_head.html.haml" "_footer.html.haml" "_email_footer_p.html.haml" "_email_footer_lines.text.haml" "_email_footer_br.html.haml" "_email_footer.text.haml" "../" "./")
-
- ("/Users/lee/code/collectplus/app/views/layouts/angular/" (22288 60635 0 0) "facebook-application.html.haml" "application.html.haml" "_footer_social_links.html.haml" "_footer.html.haml" "../" "./")
-
- ("/Users/lee/macsconfig/init.d/" (22286 25351 0 0) "07_theme.el" "06_flymake.el" "05_autocomplete.el" "04_keybindings.el" "03_default_modes.el" "02_package_management.el" "01_initialization.el~" "01_initialization.el" "../" "./")
-
- ("/Users/lee/.emacs.d/elpa/" (22287 22586 0 0) "yaml-mode-20160220.340/" "wrap-region-20140116.2320/" "with-editor-20160408.201/" "sass-mode-20150508.2012/" "rvm-20150402.742/" "ruby-tools-20151209.815/" "rubocop-20151123.2137/" "rspec-mode-20160304.1829/" "popup-20160409.2133/" "pkg-info-20150517.443/" "nyan-mode-20151017.2235/" "neotree-20160306.730/" "markdown-mode-20160409.650/" "magit-popup-20160408.156/" "magit-20160412.128/" "less-css-mode-20150511.319/" "json-snatcher-20150511.2047/" "json-reformat-20160212.53/" "json-mode-20151116.2000/" "javascript-2.2.1/" "helm-core-20160412.1017/" "helm-20160413.41/" "handlebars-mode-20150211.949/" "haml-mode-20150508.2011/" "git-commit-20160412.130/" "flymake-yaml-20130423.848/" "flymake-sass-20140308.325/" "flymake-ruby-20121104.1059/" "flymake-json-20130423.2357/" "flymake-jslint-20130613.202/" "flymake-jshint-20140319.1500/" "flymake-haml-20130324.351/" "flymake-easy-20140818.55/" "flymake-cursor-20130822.332/" "flymake-css-20121104.1104/" "flymake-coffee-20140809.324/" "feature-mode-20141121.1030/" "epl-20150517.433/" "elixir-mode-20160413.416/" "dash-20160306.1222/" "css-comb-20150502.1328/" "color-theme-railscasts-0.0.2/" "color-theme-20080305.34/" "coffee-mode-20160328.2356/" "auto-complete-20160329.2321/" "async-20160223.146/" "archives/" "../" "./")
-
- ("/Users/lee/.emacs.d/elpa/color-theme-railscasts-0.0.2/" (22287 22586 0 0) "color-theme-railscasts.elc" "color-theme-railscasts.el" "color-theme-railscasts-pkg.elc" "color-theme-railscasts-pkg.el" "color-theme-railscasts-autoloads.el" "../" "./")
-
- ("/Users/lee/macsconfig/" (22250 56262 0 0) "Readme.md" "init.el~" "init.el" "init.d/" "ido.last" "elpa/" "auto-save-list/" "ac-comphist.dat" ".git/" "../" "./")
-
- ("/Users/" (22095 44737 0 0) "Shared/" "lee/" "Guest/" ".localized" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

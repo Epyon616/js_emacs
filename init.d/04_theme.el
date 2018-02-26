@@ -1,73 +1,129 @@
-;;; pastels-on-dark-theme.el --- Pastels on Dark theme for Emacs 24
+;;; taylor-theme.el --- taylor theme
 
-;; Author: Mats Persson
-;; Maintainer: Shane Celis <shane (at) gnufoo (dot) org>
-;; URL: http://gist.github.com/1906662
-;; Version: 0.3
-;; Keywords: theme, color
+;; Copyright (C) 2000 by Art Taylor
+;; Copyright (C) 2013 by Syohei YOSHIDA
+
+;; Author: Syohei YOSHIDA &lt;syohex@gmail.com&gt;
+;; URL: https://github.com/emacs-jp/replace-colorthemes
+;; Version: 0.01
+
+;; This program is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation, either version 3 of the License, or
+;; (at your option) any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.
 
 ;;; Commentary:
-
-;; Pastels on Dark was created by Mats Persson and popularized in
-;; TextMate.app.  Ported to Emacs 24 by Shane Celis because I love it!
-
-;; To install the theme, M-x `load-theme' then enter
-;; `pastels-on-dark'.  If you run into any issues, check the
-;; `custom-theme-load-path' variable.
-
+;;
+;; Port of taylor theme from `color-themes'
 
 ;;; Code:
 
-(deftheme pastels-on-dark
-  "Pastels on Dark created by Mats Persson and popularized in TextMate.app.  Ported to Emacs 24 by Shane Celis because I love it!")
+(deftheme taylor
+  "taylor theme")
 
 (custom-theme-set-faces
- 'pastels-on-dark
- '(cursor ((t (:background "#FFFFFF"))))
- '(escape-glyph ((t (:foreground "#47B8D6"))))
- '(minibuffer-prompt ((t (:foreground "#47B8D6"))))
- '(highlight ((t (:background "#262626"))))
- '(region ((t (:background "#322A31"))))
- '(shadow ((t (:foreground "#555555"))))
- '(secondary-selection ((t (:background "#463849"))))
- '(trailing-whitespace ((t (:background "#FFD0D0"))))
- '(font-lock-builtin-face ((t (:foreground "#7171F3" :weight bold))))
- '(font-lock-comment-delimiter-face ((t (:foreground "#ed5b15" :inherit font-lock-comment-face))))
- '(font-lock-comment-face ((t (:foreground "#ed5b15"))))
- '(font-lock-constant-face ((t (:foreground "#DF7921" :weight bold))))
- '(font-lock-function-name-face ((t (:foreground "#A1A1FF"))))
- '(font-lock-keyword-face ((t (:foreground "#4856F7" :weight bold))))
- '(font-lock-preprocessor-face ((t (:foreground "#4856F7"))))
- '(font-lock-regexp-grouping-backslash ((t (:inherit bold :foreground "#666666"))))
- '(font-lock-regexp-grouping-construct ((t (:inherit bold :foreground "#666666"))))
- '(font-lock-string-face ((t (:foreground "#A2925E"))))
- '(font-lock-type-face ((t (:foreground "#DADADA"))))
- '(font-lock-variable-name-face ((t (:foreground "#C1C144"))))
- '(font-lock-warning-face ((t (:foreground "#EC9E00"))))
- '(link ((t (:foreground "#0066FF" :underline t))))
- '(link-visited ((t (:inherit link :foreground "#FF0066"))))
- '(fringe ((t nil)))
- '(mode-line-highlight ((t (:box (:line-width 2 :color "grey40" :style released-button)))))
- '(isearch ((t (:background "#463849" :foreground "#ffffff" :weight bold))))
- '(compilation-error ((t (:inherit error))))
- '(error ((t (:foreground "#B20006" :weight bold))))
- '(warning ((t (:foreground "#FF8000" :weight bold))))
- '(success ((t (:foreground "#00DD00" :weight bold))))
- '(compilation-line-number ((t (:foreground "#EC9E00"))))
- '(glyphless-char ((t (:background "#4F4D4D"))))
- '(lazy-highlight ((t (:background "#302733"))))
- '(default ((t (:stipple nil :background "#211D1D" :foreground "#DADADA" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :width normal)))))
+ 'taylor
 
+ '(default ((t (:background "black" :foreground "wheat"))))
+ '(cursor ((t (:foregound "red"))))
+ '(border ((t (:foregound "black"))))
+
+ '(gnus-mouse-face ((t (:background "black" :foreground "black"))))
+ '(list-matching-lines-face ((t (:bold t :background "grey40" :foreground "yellow"))))
+ '(view-highlight-face ((t (:background "black" :foreground "black"))))
+
+ '(bold ((t (:bold t :background "grey40" :foreground "yellow"))))
+ '(bold-italic ((t (:italic t :bold t :foreground "yellow green"))))
+ '(fl-comment-face ((t (:foreground "medium purple"))))
+ '(fl-function-name-face ((t (:foreground "green"))))
+ '(fl-keyword-face ((t (:foreground "LightGreen"))))
+ '(fl-string-face ((t (:foreground "light coral"))))
+ '(fl-type-face ((t (:foreground "cyan"))))
+ '(font-lock-builtin-face ((t (:foreground "LightSteelBlue"))))
+ '(font-lock-comment-face ((t (:foreground "OrangeRed"))))
+ '(font-lock-constant-face ((t (:foreground "Aquamarine"))))
+ '(font-lock-function-name-face ((t (:foreground "LightSkyBlue"))))
+ '(font-lock-keyword-face ((t (:foreground "Cyan"))))
+ '(font-lock-string-face ((t (:foreground "LightSalmon"))))
+ '(font-lock-type-face ((t (:foreground "PaleGreen"))))
+ '(font-lock-variable-name-face ((t (:foreground "LightGoldenrod"))))
+ '(font-lock-warning-face ((t (:bold t :foreground "Pink"))))
+ '(gnus-group-mail-1-empty-face ((t (:foreground "aquamarine1"))))
+ '(gnus-group-mail-1-face ((t (:bold t :foreground "aquamarine1"))))
+ '(gnus-group-mail-2-empty-face ((t (:foreground "aquamarine2"))))
+ '(gnus-group-mail-2-face ((t (:bold t :foreground "aquamarine2"))))
+ '(gnus-group-mail-3-empty-face ((t (:foreground "aquamarine3"))))
+ '(gnus-group-mail-3-face ((t (:bold t :foreground "aquamarine3"))))
+ '(gnus-group-mail-low-empty-face ((t (:foreground "aquamarine4"))))
+ '(gnus-group-mail-low-face ((t (:bold t :foreground "aquamarine4"))))
+ '(gnus-group-news-1-empty-face ((t (:foreground "PaleTurquoise"))))
+ '(gnus-group-news-1-face ((t (:bold t :foreground "PaleTurquoise"))))
+ '(gnus-group-news-2-empty-face ((t (:foreground "turquoise"))))
+ '(gnus-group-news-2-face ((t (:bold t :foreground "turquoise"))))
+ '(gnus-group-news-3-empty-face ((t (nil))))
+ '(gnus-group-news-3-face ((t (:bold t))))
+ '(gnus-group-news-4-empty-face ((t (nil))))
+ '(gnus-group-news-4-face ((t (:bold t))))
+ '(gnus-group-news-5-empty-face ((t (nil))))
+ '(gnus-group-news-5-face ((t (:bold t))))
+ '(gnus-group-news-6-empty-face ((t (nil))))
+ '(gnus-group-news-6-face ((t (:bold t))))
+ '(gnus-group-news-low-empty-face ((t (:foreground "DarkTurquoise"))))
+ '(gnus-group-news-low-face ((t (:bold t :foreground "DarkTurquoise"))))
+ '(gnus-splash-face ((t (:foreground "Brown"))))
+ '(gnus-summary-cancelled-face ((t (:background "black" :foreground "yellow"))))
+ '(gnus-summary-high-ancient-face ((t (:bold t :foreground "SkyBlue"))))
+ '(gnus-summary-high-read-face ((t (:bold t :foreground "PaleGreen"))))
+ '(gnus-summary-high-ticked-face ((t (:bold t :foreground "pink"))))
+ '(gnus-summary-high-unread-face ((t (:bold t))))
+ '(gnus-summary-low-ancient-face ((t (:italic t :foreground "SkyBlue"))))
+ '(gnus-summary-low-read-face ((t (:italic t :foreground "PaleGreen"))))
+ '(gnus-summary-low-ticked-face ((t (:italic t :foreground "pink"))))
+ '(gnus-summary-low-unread-face ((t (:italic t))))
+ '(gnus-summary-normal-ancient-face ((t (:foreground "SkyBlue"))))
+ '(gnus-summary-normal-read-face ((t (:foreground "PaleGreen"))))
+ '(gnus-summary-normal-ticked-face ((t (:foreground "pink"))))
+ '(gnus-summary-normal-unread-face ((t (nil))))
+ '(gnus-summary-selected-face ((t (:underline t))))
+ '(highlight ((t (:background "black" :foreground "black"))))
+ '(italic ((t (:italic t :foreground "yellow3"))))
+ '(message-cited-text-face ((t (:foreground "red"))))
+ '(message-header-cc-face ((t (:bold t :foreground "green4"))))
+ '(message-header-name-face ((t (:foreground "DarkGreen"))))
+ '(message-header-newsgroups-face ((t (:italic t :bold t :foreground "yellow"))))
+ '(message-header-other-face ((t (:foreground "#b00000"))))
+ '(message-header-subject-face ((t (:foreground "green3"))))
+ '(message-header-to-face ((t (:bold t :foreground "green2"))))
+ '(message-header-xheader-face ((t (:foreground "blue"))))
+ '(message-mml-face ((t (:foreground "ForestGreen"))))
+ '(message-separator-face ((t (:foreground "blue3"))))
+ '(modeline ((t (:background "wheat" :foreground "black"))))
+ '(modeline-buffer-id ((t (:background "wheat" :foreground "black"))))
+ '(modeline-mousable ((t (:background "wheat" :foreground "black"))))
+ '(modeline-mousable-minor-mode ((t (:background "wheat" :foreground "black"))))
+ '(region ((t (:background "blue"))))
+ '(secondary-selection ((t (:background "darkslateblue" :foreground "black"))))
+ '(show-paren-match-face ((t (:background "turquoise"))))
+ '(show-paren-mismatch-face ((t (:background "purple" :foreground "white"))))
+ '(underline ((t (:underline t))))
+ '(xref-keyword-face ((t (:foreground "blue"))))
+ '(xref-list-default-face ((t (nil))))
+ '(xref-list-pilot-face ((t (:foreground "navy"))))
+ '(xref-list-symbol-face ((t (:foreground "navy")))))
 
 ;;;###autoload
 (when load-file-name
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide-theme 'pastels-on-dark)
+(provide-theme 'taylor)
 
-;; Local Variables:
-;; no-byte-compile: t
-;; End:
-
-;;; pastels-on-dark-theme.el ends here
+;;; taylor-theme.el ends here
